@@ -2,17 +2,17 @@ Annie - Web Developer Based on Los Angeles
 
 This is a personal portfolio html template made by codewithsadee
 
-Annie | Services
+Shivansh | Services
 
-Annie | Portfolio
+Shivansh | Portfolio
 
-Annie | Contact
+Shivansh | Contact
 
 
 
 #---------- HEADER ----------#
 
-alt = Annie home
+alt = Shivansh home
 
 Home
 Services
@@ -28,15 +28,13 @@ aria-label = menu
 
 #---------- HERO ----------#
 
-👋, My name is Annie
+👋, My name is Shivansh
 
 I'm a Developer
 
-Based in Los Angeles, California.
-
 Let's Start
 
-alt = Annie, the blonde, dressed in a green hoodie with a smile on her face
+alt = Shivansh, the blonde, dressed in a green hoodie with a smile on her face
 
 
 
